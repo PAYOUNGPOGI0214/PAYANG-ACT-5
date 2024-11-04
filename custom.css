@@ -1,6 +1,6 @@
 .hover-button {
-    scrollbar-highlight-color: #ff0000;
-    border-color: rgb(16, 0, 81);
+    scrollbar-highlight-color: #dd58b5;
+    border-color: rgb(0, 0, 0);
     transition: background-color 0.3s; 
     color: rgb(0, 0, 0); 
     background-color: #00ffff;
@@ -11,17 +11,17 @@ button {
     color: #fafafa;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bolder;
-    background-color:rgb(194, 41, 11);
+    background-color:rgb(47, 46, 46);
     padding: 1%;
     cursor: pointer;
     border-radius: 10%;
     border-width: 5%;
-    column-rule-color:blue;
+    column-rule-color:rgb(0, 0, 0);
     
 }
 
 h1 {
-    color: #d30000;
+    color: #ec92ce;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style:italic;
     background-color:rgb(0, 0, 0);
@@ -29,24 +29,24 @@ h1 {
 }
 h2
 {
-    color: maroon;
+    color: rgb(124, 56, 106);
     font-style: italic;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h3{
-    color: #d30000;
+    color: #d35cb1;
     background-color: #e6e6e6;
 }
 
 p{
   color: #e6e6e6;  
-  background-color: maroon;
+  background-color: rgb(224, 94, 170);
   padding: .5%;
   font-weight: lighter;
   font-family: Georgia, 'Times New Roman', Times, serif;
   
 }
 body{
-    background-color: rgb(110, 110, 110);
+    background-color: rgb(169, 169, 169);
 }
